@@ -1,1 +1,15 @@
-# 19EC409-DTSP-2025-2026
+# EXP 1 : COMPUTATION OF DFT USING DIRECT AND FFT METHOD
+
+# AIM: 
+
+  To Obtain DFT and FFT of a given sequence in SCILAB. 
+
+# APPARATUS REQUIRED: 
+   
+   PC installed with SCILAB. 
+
+# PROGRAM: 
+
+// DISCRETE FOURIER TRANSFORM 
+
+# RESULTS
