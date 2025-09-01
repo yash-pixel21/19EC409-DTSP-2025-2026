@@ -1,22 +1,22 @@
 # EXP 1 : Linear and Circular Convolution
 
-# AIM: 
+## AIM: 
 
  To perform Linear and Circular Convolution for two given sequence using SCILAB. 
 
-# APPARATUS REQUIRED: 
+## APPARATUS REQUIRED: 
 PC installed with SCILAB. 
 
-# PROGRAM (Linear Convolution): 
+## PROGRAM (Linear Convolution): 
 
 // Linear Convolution
 
-# PROGRAM (Circular Convolution): 
+## PROGRAM (Circular Convolution): 
 
 // Circular Convolution
 
-# OUTPUT (Linear Convolution): 
+## OUTPUT (Linear Convolution): 
 
-# OUTPUT (Circular Convolution): 
+## OUTPUT (Circular Convolution): 
 
-# RESULT: 
+## RESULT: 
