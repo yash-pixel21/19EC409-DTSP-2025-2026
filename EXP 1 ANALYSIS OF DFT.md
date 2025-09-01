@@ -1,15 +1,18 @@
-# EXP 1 : COMPUTATION OF DFT USING DIRECT AND FFT METHOD
+# EXP 1 :  ANALYSIS OF DFT WITH AUDIO SIGNAL
 
 # AIM: 
 
-  To Obtain DFT and FFT of a given sequence in SCILAB. 
+  To analyze audio signal by removing unwanted frequency. 
 
 # APPARATUS REQUIRED: 
    
-   PC installed with SCILAB. 
+   PC installed with SCILAB/Python. 
 
 # PROGRAM: 
 
-// DISCRETE FOURIER TRANSFORM 
+// analyze audio signal
+
+# OUTPUT: 
+
 
 # RESULTS
