@@ -1,6 +1,6 @@
 # EXP 1 A : COMPUTATION OF DFT USING DIRECT AND FFT
 
-# AIM: 
+# AIM: yashwanth S
 
 # To Obtain DFT and FFT of a given sequence in SCILAB. 
 
