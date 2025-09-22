@@ -81,3 +81,5 @@ title("Phase Spectrum");
 
 
 # RESULT: 
+Thus, the linear convolution and circular convolution of the two given sequences were
+performed and its result was verified.
